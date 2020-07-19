@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Sagar
 
 * 🔭 I’m currently working on [Android](https://developer.android.com/)
 * 🌱 I’m currently learning [Django REST Framework](https://www.django-rest-framework.org/) and [Kotlin](https://kotlinlang.org/)
